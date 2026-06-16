@@ -158,5 +158,325 @@
     "C": "Movie",
     "D": "Director",
     "Correct": "B"
+  },
+  {
+    "Question": "Select the option that is related to the third term in the same way as the second term is related to the first term.\n6 : 252 :: 5 : ?",
+    "A": "125",
+    "B": "150",
+    "C": "130",
+    "D": "175",
+    "Correct": "B"
+  },
+  {
+    "Question": "In a certain code language, 'BUILDER' is written as 'JVCKSFE'. How will 'SEALING' be written in that code language?",
+    "A": "BTFUOHJ",
+    "B": "BFTUHOJ",
+    "C": "TFBOHJU",
+    "D": "BFTUOHJ",
+    "Correct": "D"
+  },
+  {
+    "Question": "Statements:\nI. All rectangles are polygons.\nII. All polygons are quadrilaterals.\nConclusions:\nI. All rectangles are quadrilaterals.\nII. Some quadrilaterals are rectangles.",
+    "A": "Only conclusion I follows",
+    "B": "Only conclusion II follows",
+    "C": "Neither conclusion I nor II follows",
+    "D": "Both conclusions I and II follow",
+    "Correct": "D"
+  },
+  {
+    "Question": "Introducing a girl, Vipin said, 'Her mother is the only daughter of my mother-in-law.' How is Vipin related to the girl?",
+    "A": "Uncle",
+    "B": "Father",
+    "C": "Brother",
+    "D": "Husband",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which two signs should be interchanged to make the given equation correct?\n12 - 6 + 4 × 2 ÷ 3 = 13",
+    "A": "+ and -",
+    "B": "× and ÷",
+    "C": "- and ÷",
+    "D": "- and ×",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the missing number from the given responses:\n7, 11, 20, 36, 61, ?",
+    "A": "92",
+    "B": "97",
+    "C": "101",
+    "D": "86",
+    "Correct": "B"
+  },
+  {
+    "Question": "Arrange the following words in a meaningful and logical sequence:\n1. Poverty 2. Population 3. Death 4. Unemployment 5. Disease",
+    "A": "2, 3, 4, 1, 5",
+    "B": "3, 4, 2, 5, 1",
+    "C": "2, 4, 1, 5, 3",
+    "D": "1, 2, 3, 4, 5",
+    "Correct": "C"
+  },
+  {
+    "Question": "Four pairs of words are given, out of which three are alike in some manner and one is different. Select the odd one out.",
+    "A": "Gold : Ornaments",
+    "B": "Wood : Furniture",
+    "C": "Leather : Shoes",
+    "D": "Earthenpot : Clay",
+    "Correct": "D"
+  },
+  {
+    "Question": "If '+' means 'divided by', '-' means 'add', '×' means 'subtract' and '÷' means 'multiplied by', then what will be the value of the following expression?\n24 + 6 ÷ 2 - 8 × 2",
+    "A": "18",
+    "B": "14",
+    "C": "12",
+    "D": "16",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the alternative that best expresses a relationship similar to that expressed in the original pair:\nPharaoh : Egypt :: ?",
+    "A": "King : Palace",
+    "B": "Tsars : Russia",
+    "C": "Emperor : Kingdom",
+    "D": "President : Parliament",
+    "Correct": "B"
+  },
+  {
+    "Question": "A person starts from a point and walks 4 km towards North, then turns left and walks 3 km, then turns right and walks 2 km, and finally turns right and walks 3 km. How far is he from the starting point?",
+    "A": "6 km",
+    "B": "9 km",
+    "C": "5 km",
+    "D": "7 km",
+    "Correct": "A"
+  },
+  {
+    "Question": "In a class of 50 students, Jatin is ranked 18th from the top. What is his rank from the bottom?",
+    "A": "32nd",
+    "B": "33rd",
+    "C": "34th",
+    "D": "31st",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the letter-cluster that can replace the question mark (?) in the following series:\nPMT, OOS, NQR, MSQ, ?",
+    "A": "LUP",
+    "B": "LVP",
+    "C": "LVR",
+    "D": "LVP",
+    "Correct": "A"
+  },
+  {
+    "Question": "Identify the Venn diagram that best represents the relationship among the classes: Currency, Rupee, Dollar",
+    "A": "One large circle enclosing two separate, non-overlapping circles",
+    "B": "Three mutually intersecting circles",
+    "C": "One circle inside another, which is inside a third circle",
+    "D": "Two intersecting circles inside a large circle",
+    "Correct": "A"
+  },
+  {
+    "Question": "Four number pairs have been given, out of which three are alike in some manner and one is different. Select the number pair that is different.",
+    "A": "4 : 65",
+    "B": "3 : 28",
+    "C": "5 : 126",
+    "D": "6 : 215",
+    "Correct": "D"
+  },
+  {
+    "Question": "If 15th August 2011 was a Monday, what was the day of the week on 15th August 2013?",
+    "A": "Wednesday",
+    "B": "Thursday",
+    "C": "Friday",
+    "D": "Tuesday",
+    "Correct": "B"
+  },
+  {
+    "Question": "Statements:\nI. Some pens are pencils.\nII. Some pencils are erasers.\nConclusions:\nI. Some pens are erasers.\nII. No pen is an eraser.",
+    "A": "Only conclusion I follows",
+    "B": "Only conclusion II follows",
+    "C": "Either conclusion I or II follows",
+    "D": "Neither conclusion I nor II follows",
+    "Correct": "C"
+  },
+  {
+    "Question": "A solid cube of 3 cm side, painted all over its surface, is cut into small cubes of 1 cm side each. How many total small cubes are obtained?",
+    "A": "9",
+    "B": "18",
+    "C": "27",
+    "D": "36",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the option that is related to the third term in the same way as the second term is related to the first term.\nPen : Write :: Knife : ?",
+    "A": "Sharpen",
+    "B": "Cut",
+    "C": "Vegetable",
+    "D": "Steel",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the missing number from the given matrix responses:\n9  4  20\n8  5  15\n7  6  ?",
+    "A": "12",
+    "B": "14",
+    "C": "10",
+    "D": "16",
+    "Correct": "A"
+  },
+  {
+    "Question": "In a certain code language, 'TEACHER' is coded as '205138518'. How will 'STUDENT' be coded in that language?",
+    "A": "192021451420",
+    "B": "192021451320",
+    "C": "192021451220",
+    "D": "192021451520",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that is related to the third term in the same way as the second term is related to the first term.\n11 : 132 :: 13 : ?",
+    "A": "169",
+    "B": "182",
+    "C": "172",
+    "D": "195",
+    "Correct": "B"
+  },
+  {
+    "Question": "Statements:\nI. All birds can fly.\nII. Ostrich is a bird.\nConclusions:\nI. Ostrich can fly.\nII. Ostrich cannot fly.",
+    "A": "Only conclusion I follows",
+    "B": "Only conclusion II follows",
+    "C": "Neither conclusion I nor II follows",
+    "D": "Both conclusions I and II follow",
+    "Correct": "A"
+  },
+  {
+    "Question": "A's father is B's son. C is A's paternal uncle and D is B's brother. How is D related to C?",
+    "A": "Brother",
+    "B": "Nephew",
+    "C": "Uncle",
+    "D": "Son",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which two signs should be interchanged to balance the following equation?\n24 ÷ 2 + 4 × 3 - 6 = 21",
+    "A": "÷ and +",
+    "B": "× and -",
+    "C": "+ and ×",
+    "D": "- and ÷",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the number that can replace the question mark (?) in the following series:\n12, 22, 42, 72, 112, ?",
+    "A": "152",
+    "B": "162",
+    "C": "172",
+    "D": "182",
+    "Correct": "B"
+  },
+  {
+    "Question": "Arrange the following words in a logical sequence based on size (small to large):\n1. Gnat 2. Whale 3. Elephant 4. Cat 5. Tiger",
+    "A": "1, 4, 5, 2, 3",
+    "B": "1, 4, 3, 5, 2",
+    "C": "1, 4, 5, 3, 2",
+    "D": "4, 1, 5, 3, 2",
+    "Correct": "C"
+  },
+  {
+    "Question": "Four words have been given, out of which three are alike in some manner and one is different. Select the odd word.",
+    "A": "Ludo",
+    "B": "Chess",
+    "C": "Cricket",
+    "D": "Carrom",
+    "Correct": "C"
+  },
+  {
+    "Question": "If 'P' means '+', 'Q' means '×', 'R' means '÷', and 'S' means '-', then what is the value of:\n44 R 11 Q 3 P 5 S 2",
+    "A": "15",
+    "B": "12",
+    "C": "17",
+    "D": "21",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the alternative that best expresses a relationship similar to that expressed in the original pair:\nSeismology : Earthquakes :: Phycology : ?",
+    "A": "Fungi",
+    "B": "Algae",
+    "C": "Insects",
+    "D": "Birds",
+    "Correct": "B"
+  },
+  {
+    "Question": "Kiran walks 20 m towards North. She then turns right and walks 30 m. Now she turns right and walks 35 m. Next, she turns left and walks 15 m. Finally, she turns left and walks 15 m. In which direction is she now facing?",
+    "A": "North",
+    "B": "South",
+    "C": "East",
+    "D": "West",
+    "Correct": "A"
+  },
+  {
+    "Question": "In a row of trees, one tree is the 7th from either end of the row. How many trees are there in the row?",
+    "A": "13",
+    "B": "14",
+    "C": "12",
+    "D": "15",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the letter-cluster that can replace the question mark (?) in the following series:\nABC, FGH, KLM, PQR, ?",
+    "A": "UVW",
+    "B": "VWX",
+    "C": "STU",
+    "D": "WXY",
+    "Correct": "A"
+  },
+  {
+    "Question": "Identify the Venn diagram that best represents the relationship among the classes: Plums, Fruits, Tomatoes",
+    "A": "One large circle containing two separate, mutually disjoint circles",
+    "B": "One circle inside another, and a third completely separate circle",
+    "C": "Three mutually intersecting circles",
+    "D": "Two intersecting circles enclosed inside a larger circle",
+    "Correct": "B"
+  },
+  {
+    "Question": "Four number pairs have been given, out of which three are alike in some manner and one is different. Select the number pair that is different.",
+    "A": "8 - 64",
+    "B": "6 - 36",
+    "C": "7 - 49",
+    "D": "9 - 82",
+    "Correct": "D"
+  },
+  {
+    "Question": "What was the day of the week on 26th January 1950?",
+    "A": "Tuesday",
+    "B": "Wednesday",
+    "C": "Thursday",
+    "D": "Friday",
+    "Correct": "C"
+  },
+  {
+    "Question": "Statements:\nI. All windows are doors.\nII. No door is a wall.\nConclusions:\nI. No window is a wall.\nII. No wall is a door.",
+    "A": "Only conclusion I follows",
+    "B": "Only conclusion II follows",
+    "C": "Neither conclusion I nor II follows",
+    "D": "Both conclusions I and II follow",
+    "Correct": "D"
+  },
+  {
+    "Question": "A cube painted blue on all faces is cut into 125 smaller cubes of equal size. How many small cubes will have exactly two faces painted?",
+    "A": "24",
+    "B": "36",
+    "C": "54",
+    "D": "8",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the option that is related to the third term in the same way as the second term is related to the first term.\nCar : Garage :: Aeroplane : ?",
+    "A": "Runway",
+    "B": "Hangar",
+    "C": "Airport",
+    "D": "Sky",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the missing number from the given matrix responses:\n5   4   9\n6   3   9\n7   2   ?",
+    "A": "8",
+    "B": "9",
+    "C": "10",
+    "D": "11",
+    "Correct": "B"
   }
 ]
