@@ -478,5 +478,325 @@
     "C": "10",
     "D": "11",
     "Correct": "B"
+  },
+  {
+    "Question": "In a certain code language, 'MONKEY' is written as 'XDJMNL'. How will 'TIGER' be written in that code language?",
+    "A": "QDFHS",
+    "B": "SDFHQ",
+    "C": "HFDSQ",
+    "D": "QDHFS",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that is related to the third term in the same way as the second term is related to the first term.\n12 : 140 :: 156 : ?",
+    "A": "1820",
+    "B": "1500",
+    "C": "1250",
+    "D": "1680",
+    "Correct": "A"
+  },
+  {
+    "Question": "Statements:\nI. Some skirts are benches.\nII. No bench is a table.\nConclusions:\nI. Some skirts are tables.\nII. Some benches are skirts.",
+    "A": "Only conclusion I follows",
+    "B": "Only conclusion II follows",
+    "C": "Neither conclusion I nor II follows",
+    "D": "Both conclusions I and II follow",
+    "Correct": "B"
+  },
+  {
+    "Question": "If A is B's sister, C is B's mother, D is C's father, and E is D's mother, then how is A related to D?",
+    "A": "Grandmother",
+    "B": "Grandfather",
+    "C": "Granddaughter",
+    "D": "Daughter",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which two signs and numbers should be interchanged to make the given equation correct?\n7 + 2 × 3 - 4 ÷ 1 = 11",
+    "A": "+ and ×, 7 and 2",
+    "B": "+ and -, 3 and 4",
+    "C": "× and ÷, 2 and 4",
+    "D": "+ and ×, 3 and 4",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the missing number from the given responses:\n14, 21, 30, 41, 54, ?",
+    "A": "61",
+    "B": "67",
+    "C": "69",
+    "D": "72",
+    "Correct": "C"
+  },
+  {
+    "Question": "Arrange the following words in a logical and meaningful order:\n1. Execution 2. Recommendation 3. Evaluation 4. Planning 5. Review",
+    "A": "4, 2, 1, 3, 5",
+    "B": "2, 4, 1, 3, 5",
+    "C": "2, 4, 1, 5, 3",
+    "D": "4, 1, 2, 5, 3",
+    "Correct": "B"
+  },
+  {
+    "Question": "Four word-pairs are given, out of which three are alike in some manner and one is different. Select the odd one out.",
+    "A": "Cow : Calf",
+    "B": "Dog : Puppy",
+    "C": "Lion : Cub",
+    "D": "Duck : Drake",
+    "Correct": "D"
+  },
+  {
+    "Question": "If 'P' denotes '÷', 'Q' denotes '×', 'R' denotes '+' and 'S' denotes '-', then what will be the value of the following expression?\n18 Q 12 P 4 R 5 S 6",
+    "A": "53",
+    "B": "59",
+    "C": "65",
+    "D": "51",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the alternative that best expresses a relationship similar to that expressed in the original pair:\nAnemometer : Wind Speed :: Odometer : ?",
+    "A": "Pressure",
+    "B": "Distance",
+    "C": "Current",
+    "D": "Humidity",
+    "Correct": "B"
+  },
+  {
+    "Question": "A child is looking for his father. He went 90 meters in the East before turning to his right. He went 20 meters before turning to his right again to look for his father at his uncle's place 30 meters from this point. His father was not there. From here he went 100 meters to the North before meeting his father in a street. How far did the son meet his father from the starting point?",
+    "A": "80 meters",
+    "B": "100 meters",
+    "C": "140 meters",
+    "D": "260 meters",
+    "Correct": "B"
+  },
+  {
+    "Question": "In a queue, Amrita is 10th from the front while Mukul is 25th from the behind and Mamta is just in the middle of the two. If there are 50 persons in the queue, what position does Mamta occupy from the front?",
+    "A": "20th",
+    "B": "19th",
+    "C": "18th",
+    "D": "17th",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the letter-cluster that can replace the question mark (?) in the following series:\nZA5, YB4, XC6, WD3, ?",
+    "A": "VE7",
+    "B": "VE2",
+    "C": "VE5",
+    "D": "VF7",
+    "Correct": "C"
+  },
+  {
+    "Question": "Identify the Venn diagram that best represents the relationship among the classes: Liquid, Milk, Water",
+    "A": "One large circle enclosing two separate, non-overlapping circles",
+    "B": "Two intersecting circles inside a larger circle",
+    "C": "Three separate concentric circles",
+    "D": "Three mutually intersecting circles",
+    "Correct": "A"
+  },
+  {
+    "Question": "Four number pairs have been given, out of which three are alike in some manner and one is different. Select the number pair that is different.",
+    "A": "7 - 50",
+    "B": "9 - 82",
+    "C": "11 - 122",
+    "D": "13 - 171",
+    "Correct": "D"
+  },
+  {
+    "Question": "If the 3rd day of a month is Tuesday, which of the following will be the 6th day from the 23rd day of that month?",
+    "A": "Sunday",
+    "B": "Saturday",
+    "C": "Tuesday",
+    "D": "Wednesday",
+    "Correct": "D"
+  },
+  {
+    "Question": "Statements:\nI. All locks are keys.\nII. No key is a chain.\nConclusions:\nI. No lock is a chain.\nII. Some chains are keys.",
+    "A": "Only conclusion I follows",
+    "B": "Only conclusion II follows",
+    "C": "Neither conclusion I nor II follows",
+    "D": "Both conclusions I and II follow",
+    "Correct": "A"
+  },
+  {
+    "Question": "A cube of side 4 cm is painted green on all pairs of opposite faces. It is then cut into small cubes of 1 cm each. How many small cubes will have three faces painted?",
+    "A": "4",
+    "B": "8",
+    "C": "16",
+    "D": "24",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the option that is related to the third term in the same way as the second term is related to the first term.\nClock : Time :: Thermometer : ?",
+    "A": "Heat",
+    "B": "Radiation",
+    "C": "Energy",
+    "D": "Temperature",
+    "Correct": "D"
+  },
+  {
+    "Question": "Find the missing number from the given matrix responses:\n11 12 13\n14 15 16\n2 3 ?",
+    "A": "4",
+    "B": "3",
+    "C": "5",
+    "D": "2",
+    "Correct": "A"
+  },
+  {
+    "Question": "In a certain code language, 'ZEBRA' is written as '2652181'. How will 'COBRA' be written in that code language?",
+    "A": "3152181",
+    "B": "3152171",
+    "C": "3142181",
+    "D": "3153181",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that is related to the third term in the same way as the second term is related to the first term.\n8 : 81 :: 64 : ?",
+    "A": "125",
+    "B": "625",
+    "C": "729",
+    "D": "256",
+    "Correct": "B"
+  },
+  {
+    "Question": "Statements:\nI. All paths are streets.\nII. All streets are lanes.\nConclusions:\nI. All paths are lanes.\nII. Some lanes are paths.",
+    "A": "Only conclusion I follows",
+    "B": "Only conclusion II follows",
+    "C": "Neither conclusion I nor II follows",
+    "D": "Both conclusions I and II follow",
+    "Correct": "D"
+  },
+  {
+    "Question": "P is the brother of Q and R. S is R's mother. T is P's father. Which of the following statements cannot be definitely true?",
+    "A": "T is Q's father",
+    "B": "S is P's mother",
+    "C": "P is S's son",
+    "D": "Q is T's son",
+    "Correct": "D"
+  },
+  {
+    "Question": "Which two signs should be interchanged to correct the given equation?\n5 + 3 × 8 - 12 ÷ 4 = 3",
+    "A": "+ and -",
+    "B": "- and ÷",
+    "C": "+ and ×",
+    "D": "× and ÷",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the number that can replace the question mark (?) in the following series:\n2, 5, 11, 23, 47, ?",
+    "A": "95",
+    "B": "92",
+    "C": "96",
+    "D": "98",
+    "Correct": "A"
+  },
+  {
+    "Question": "Arrange the following words in a logical sequence from top to bottom of a human body:\n1. Knee 2. Heel 3. Waist 4. Chest 5. Neck",
+    "A": "5, 4, 3, 1, 2",
+    "B": "4, 5, 3, 1, 2",
+    "C": "5, 4, 1, 3, 2",
+    "D": "5, 3, 4, 1, 2",
+    "Correct": "A"
+  },
+  {
+    "Question": "Four items are given below, out of which three are alike in some manner and one is different. Select the odd one out.",
+    "A": "Sodium",
+    "B": "Potassium",
+    "C": "Mercury",
+    "D": "Gallium",
+    "Correct": "C"
+  },
+  {
+    "Question": "If '×' stands for 'addition', '<' stands for 'subtraction', '+' stands for 'division', '>' stands for 'multiplication', then what is the value of:\n16 > 4 + 2 < 8 × 2",
+    "A": "26",
+    "B": "24",
+    "C": "32",
+    "D": "28",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the alternative that best expresses a relationship similar to that expressed in the original pair:\nCardiology : Heart :: Zoology : ?",
+    "A": "Plants",
+    "B": "Animals",
+    "C": "Insects",
+    "D": "Viruses",
+    "Correct": "B"
+  },
+  {
+    "Question": "A rat runs 20' towards East and turns to right, runs 10' and turns to right, runs 9' and again turns to left, runs 5' and then turns to left, runs 12' and finally turns to left and runs 6'. Now, which direction is the rat facing?",
+    "A": "East",
+    "B": "West",
+    "C": "North",
+    "D": "South",
+    "Correct": "C"
+  },
+  {
+    "Question": "Suresh is 7 ranks ahead of Ashok in a class of 39. If Ashok's rank is 17th from the last, what is Suresh's rank from the start?",
+    "A": "16th",
+    "B": "17th",
+    "C": "15th",
+    "D": "14th",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the letter-cluster that can replace the question mark (?) in the following series:\nDFI, KMP, RTW, ?, BDG",
+    "A": "YAD",
+    "B": "YAD",
+    "C": "YBD",
+    "D": "XZC",
+    "Correct": "A"
+  },
+  {
+    "Question": "Identify the Venn diagram that best represents the relationship among the classes: Nitrogen, Ice, Air",
+    "A": "One large circle containing a small circle, and another separate circle completely outside",
+    "B": "Three separate, mutually non-overlapping circles",
+    "C": "Two intersecting circles inside a larger third circle",
+    "D": "Three mutually intersecting circles",
+    "Correct": "A"
+  },
+  {
+    "Question": "Four number pairs have been given, out of which three are alike in some manner and one is different. Select the number pair that is different.",
+    "A": "11 - 121",
+    "B": "12 - 144",
+    "C": "15 - 225",
+    "D": "16 - 250",
+    "Correct": "D"
+  },
+  {
+    "Question": "What day of the week was 2nd October 1869?",
+    "A": "Friday",
+    "B": "Saturday",
+    "C": "Sunday",
+    "D": "Monday",
+    "Correct": "B"
+  },
+  {
+    "Question": "Statements:\nI. All poets are daydreamers.\nII. All painters are daydreamers.\nConclusions:\nI. All painters are poets.\nII. Some daydreamers are not painters.",
+    "A": "Only conclusion I follows",
+    "B": "Only conclusion II follows",
+    "C": "Neither conclusion I nor II follows",
+    "D": "Both conclusions I and II follow",
+    "Correct": "C"
+  },
+  {
+    "Question": "A cube painted red on all faces is cut into 216 smaller cubes of equal size. How many small cubes will have only one face painted?",
+    "A": "96",
+    "B": "54",
+    "C": "64",
+    "D": "150",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that is related to the third term in the same way as the second term is related to the first term.\nBird : Wings :: Fish : ?",
+    "A": "Gills",
+    "B": "Fins",
+    "C": "Scales",
+    "D": "Tail",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the missing number from the given matrix responses:\n4   3   7\n5   2   7\n6   4   ?",
+    "A": "9",
+    "B": "10",
+    "C": "11",
+    "D": "12",
+    "Correct": "B"
   }
 ]
