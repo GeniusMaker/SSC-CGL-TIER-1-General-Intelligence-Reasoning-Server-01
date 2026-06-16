@@ -1,0 +1,162 @@
+[
+  {
+    "Question": "In a certain code language, 'ROSE' is written as 'TQUG'. How will 'BISCUIT' be written in that code language?",
+    "A": "DKUEWKV",
+    "B": "DKVEXKV",
+    "C": "DKUEWJV",
+    "D": "CKUEWKV",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that is related to the third term in the same way as the second term is related to the first term. \n64 : 8 :: 289 : ?",
+    "A": "15",
+    "B": "17",
+    "C": "13",
+    "D": "19",
+    "Correct": "B"
+  },
+  {
+    "Question": "Statements:\nI. All cups are plates.\nII. No plate is a spoon.\nConclusions:\nI. No cup is a spoon.\nII. Some plates are cups.",
+    "A": "Only conclusion I follows",
+    "B": "Only conclusion II follows",
+    "C": "Neither conclusion I nor II follows",
+    "D": "Both conclusions I and II follow",
+    "Correct": "D"
+  },
+  {
+    "Question": "Pointing to a photograph, a man said, 'I have no brother or sister but that man's father is my father's son.' Whose photograph was it?",
+    "A": "His own",
+    "B": "His son's",
+    "C": "His father's",
+    "D": "His nephew's",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which of the following interchange of signs would make the given equation correct?\n16 + 8 ÷ 4 - 2 × 3 = 10",
+    "A": "+ and -",
+    "B": "÷ and ×",
+    "C": "+ and ÷",
+    "D": "- and ×",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the missing number from the given responses:\n1, 4, 9, 16, 25, ?",
+    "A": "35",
+    "B": "36",
+    "C": "48",
+    "D": "49",
+    "Correct": "B"
+  },
+  {
+    "Question": "Arrange the following words in a meaningful and logical order:\n1. Key 2. Door 3. Lock 4. Room 5. Switch on",
+    "A": "5, 1, 2, 4, 3",
+    "B": "4, 2, 1, 5, 3",
+    "C": "1, 3, 2, 4, 5",
+    "D": "1, 2, 3, 5, 4",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find the odd one out from the given alternatives.",
+    "A": "Aluminum",
+    "B": "Copper",
+    "C": "Iron",
+    "D": "Brass",
+    "Correct": "D"
+  },
+  {
+    "Question": "If 'A' denotes 'addition', 'B' denotes 'multiplication', 'C' denotes 'subtraction', and 'D' denotes 'division', then what will be the value of the following expression?\n25 D 5 B 3 A 8 C 4",
+    "A": "15",
+    "B": "19",
+    "C": "23",
+    "D": "11",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the pair that best expresses a relationship similar to that expressed in the original pair:\nDoctor : Hospital :: ?",
+    "A": "Teacher : School",
+    "B": "Plumber : Wrench",
+    "C": "Farmer : Crop",
+    "D": "Chef : Knife",
+    "Correct": "A"
+  },
+  {
+    "Question": "A man walks 5 km toward South and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?",
+    "A": "West",
+    "B": "South",
+    "C": "North-East",
+    "D": "South-West",
+    "Correct": "D"
+  },
+  {
+    "Question": "In a row of 40 students, A is 15th from the left end. What is his position from the right end?",
+    "A": "25th",
+    "B": "26th",
+    "C": "24th",
+    "D": "27th",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the letter-cluster that can replace the question mark (?) in the following series:\nCX, EV, GT, IR, ?",
+    "A": "JQ",
+    "B": "KP",
+    "C": "LO",
+    "D": "MN",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify the diagram that best represents the relationship among the classes: Males, Fathers, Engineers",
+    "A": "Three disjoint circles",
+    "B": "Two concentric circles with one intersecting both",
+    "C": "Three mutually intersecting circles",
+    "D": "One circle inside another, and a third completely separate",
+    "Correct": "B"
+  },
+  {
+    "Question": "Four number pairs have been given, out of which three are alike in some manner and one is different. Select the number pair that is different.",
+    "A": "14 - 196",
+    "B": "12 - 144",
+    "C": "13 - 169",
+    "D": "15 - 235",
+    "Correct": "D"
+  },
+  {
+    "Question": "If it was a Sunday on 1st January 2006, then what was the day of the week on 1st January 2010?",
+    "A": "Friday",
+    "B": "Saturday",
+    "C": "Sunday",
+    "D": "Monday",
+    "Correct": "A"
+  },
+  {
+    "Question": "Statements:\nI. Some keys are locks.\nII. Some locks are drawers.\nConclusions:\nI. All drawers are keys.\nII. No drawer is a key.",
+    "A": "Only conclusion I follows",
+    "B": "Only conclusion II follows",
+    "C": "Either conclusion I or II follows",
+    "D": "Neither conclusion I nor II follows",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the correct mirror image of the given alphanumeric cluster when a vertical mirror is placed to its right:\nBR45K",
+    "A": "K54RB",
+    "B": "lambdaᄅAЯ𐐠",
+    "C": "𐐠ЯAᄅK",
+    "D": "lambda𐐠45R",
+    "Correct": "B"
+  },
+  {
+    "Question": "A cube is painted red on all faces and then cut into 64 small smaller cubes of equal size. How many small cubes will have no faces painted?",
+    "A": "4",
+    "B": "8",
+    "C": "16",
+    "D": "0",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the option that is related to the third term in the same way as the second term is related to the first term.\nAuditorium : Assembly :: Theater : ?",
+    "A": "Acting",
+    "B": "Play",
+    "C": "Movie",
+    "D": "Director",
+    "Correct": "B"
+  }
+]
